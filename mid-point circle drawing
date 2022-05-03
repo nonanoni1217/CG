@@ -58,3 +58,5 @@ midPointCircle(r,x,y);
 getch();
 
 }
+
+//output: 100,100  95
