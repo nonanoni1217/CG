@@ -115,5 +115,4 @@ cohen(x0,y0,x1,y1,l,r,b,t);
  return;
 }
 
-//output:left-100,bottom-200,right-300,top-400 line:(200,250),(100,150) or 
-//             300        100       100    300       (50,50),(400,500)
+//output:left-100,bottom-200,right-300,top-400 line:(200,250),(100,150) 
